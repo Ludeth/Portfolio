@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://ludeth.github.io',
-  base: '/my-portfolio',
+  site: 'https://ludeth.github.io'
 })
