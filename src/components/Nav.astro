@@ -1,7 +1,9 @@
 ---
+import { localizePath } from "astro-i18next";
 import Icon from './Icon.astro';
 import ThemeToggle from './ThemeToggle.astro';
 import type { iconPaths } from './IconPaths';
+import LanguageToggle from "./LanguageToggle.astro";
 
 /** Main menu items */
 const textLinks: { label: string; href: string }[] = [
@@ -17,6 +19,8 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 	{ label: 'Linkedin', href: 'https://it.linkedin.com/in/davide-di-marsilio', icon: 'linkedin-logo' },
 	{ label: 'Discord', href: 'https://discordapp.com/users/388026142742937600', icon: 'discord-logo' },
 ];
+
+
 ---
 
 <nav>
@@ -49,7 +53,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 										(href !== '/' && Astro.url.pathname.startsWith(href)),
 								},
 							]}
-							href={href}
+							href={localizePath(href)}
 						>
 							{label}
 						</a>
@@ -71,6 +75,9 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 
 			<div class="theme-toggle">
 				<ThemeToggle />
+			</div>
+			<div class="language-toggle">
+				<LanguageToggle />
 			</div>
 		</div>
 	</div>

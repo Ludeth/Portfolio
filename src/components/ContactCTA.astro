@@ -1,12 +1,13 @@
 ---
+import i18next, { t, changeLanguage } from "i18next";
 import CallToAction from './CallToAction.astro';
 import Icon from './Icon.astro';
 ---
 
 <aside>
-	<h2>Interested in working together?</h2>
+	<h2>{t("mail.question")}</h2>
 	<CallToAction href="mailto:dimarsiliodavide@gmail.com">
-		Send Me a Message
+		{t("mail.send")}
 		<Icon icon="paper-plane-tilt" size="1.2em" />
 	</CallToAction>
 </aside>
