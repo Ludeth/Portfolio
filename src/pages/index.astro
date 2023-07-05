@@ -35,10 +35,10 @@ const projects = (await getCollection('work'))
 					align="start"
 				>
 					<div class="roles">
-						<Pill><Icon icon="palette" size="1.33em" /> Artist</Pill>
-						<Pill><Icon icon="windows" size="1.33em" /> Windows OS Lover</Pill>
+						<Pill><Icon icon="windows" size="1.33em" /> Windows Lover</Pill>
 						<Pill><Icon icon="desktop-tower" size="1.33em" /> Helpdesk</Pill>
-						<Pill><Icon icon="pencil-line" size="1.33em" /> Logo Designer</Pill>
+						<Pill><Icon icon="palette" size="1.33em" /> Artist</Pill>
+						<Pill><Icon icon="sketch-logo" size="1.33em" /> Logo Designer</Pill>
 					</div>
 				</Hero>
 
@@ -116,7 +116,11 @@ const projects = (await getCollection('work'))
 	}
 
 	.roles {
-		display: none;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 0.5rem;
+		
 	}
 
 	.hero img {
@@ -139,6 +143,7 @@ const projects = (await getCollection('work'))
 			margin-top: 0.5rem;
 			display: flex;
 			gap: 0.5rem;
+			justify-content: left;
 		}
 
 		.hero img {
