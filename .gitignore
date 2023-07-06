@@ -19,3 +19,6 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# i18next (bug windows 11)
+i18next.config.mjs
