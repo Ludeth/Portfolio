@@ -1,5 +1,8 @@
 {
     "site": {
+      "selectedwork":"Lavori in Evidenza",
+      "selectedworkd":"Date un'occhiata qui sotto ad alcuni dei miei lavori di rilievo per i clienti degli ultimi anni.",
+      "selectedworkb":"Visualizza tutti",
       "footerdev":"Progettato e Sviluppato a Portland con ",
       "home":"Home",
       "work":"Lavori",
@@ -7,9 +10,9 @@
       "title": " Ciao, mi chiamo Davide Di Marsilio",
       "description": "Sono un operatore Helpdesk e un artista attualmente residente a Milano, Italia.",
       "artist":"Artista",
-      "ost":"Conoscenza in OS",
+      "ost":"Conoscenza dei OS",
       "osd":"Con una vera passione per la tecnologia e un'ampia esperienza nei sistemi operativi, principalmente Windows, possiedo una profonda conoscenza di varie piattaforme OS. Inoltre, la mia competenza si estende ad Active Directory , Azure e allo scripting Python, consentendomi di sfruttare questi potenti strumenti per operazioni efficienti all'interno di diversi ambienti IT.",
-      "cct":"Comunicatore Chiaro",
+      "cct":"Abile Comunicatore",
       "ccd":"Con un passato da operatore Helpdesk, ho affinato le mie capacità di comunicazione a un livello elevato. Sono in grado di comprendere e soddisfare le esigenze e i requisiti dei clienti. La mia capacità di comunicare in modo chiaro e di ascoltare attivamente mi permette di stabilire solidi rapporti di lavoro e di produrre progetti che soddisfano e superano le aspettative.",
       "avt":"Visione Artistica",
       "avd":"Come artista e designer di loghi indipendente, possiedo un'acuta visione artistica che mi permette di creare design unici e visivamente accattivanti. Che si tratti di un logo, di un'illustrazione o di qualsiasi progetto artistico, metto a disposizione creatività, immaginazione e attenzione ai dettagli per ottenere risultati eccezionali."
@@ -32,6 +35,9 @@
     "about":{
       "title":"Chi Sono",
       "titled":"Leggete qui sotto per saperne di più su di me e sul mio percorso."
+    },
+    "content":{
+      "work1":"test itailiano"
     }
   }
  

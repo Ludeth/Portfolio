@@ -1,5 +1,8 @@
 {
     "site": {
+      "selectedwork":"Selected Work",
+      "selectedworkd":"Take a look below at some of my featured work for clients from the past few years.",
+      "selectedworkb":"View All",
       "footerdev":"Designed & Developed in Portland with ",
       "home":"Home",
       "work":"Work",
@@ -32,6 +35,9 @@
     "about":{
       "title":"About",
       "titled":"Thanks for stopping by. Read below to learn more about myself and my background."
+    },
+    "content":{
+      "work1":"test inglese"
     }
   }
  

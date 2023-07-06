@@ -1,4 +1,5 @@
 ---
+import { localizePath } from "astro-i18next";
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -8,7 +9,7 @@ interface Props {
 const { data, slug } = Astro.props.project;
 ---
 
-<a class="card" href={`/work/${slug}`}>
+<a class="card" href={localizePath(`/work/${slug}`)}>
 	<span class="title">{data.title}</span>
 	<img src={data.img} alt={data.img_alt || ''} loading="lazy" decoding="async" />
 </a>

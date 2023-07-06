@@ -1,5 +1,5 @@
 ---
-import i18next, { t, changeLanguage } from "i18next";
+import { t } from "i18next";
 import { localizePath } from "astro-i18next";
 import Icon from './Icon.astro';
 import ThemeToggle from './ThemeToggle.astro';
@@ -210,7 +210,8 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 
 		display: flex;
 		justify-content: space-between;
-		gap: 0.75rem;
+		align-items: center;
+		gap: 1.75rem;
 		padding: 1.5rem 2rem 1.5rem 1.5rem;
 		background-color: var(--gray-999);
 		border-radius: 0 0 0.75rem 0.75rem;

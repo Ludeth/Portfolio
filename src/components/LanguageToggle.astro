@@ -1,19 +1,23 @@
 ---
+import Icon from './Icon.astro';
 import { LanguageSelector } from "astro-i18next/components";
 ---
-
-<LanguageSelector showFlag={true} class="box"/>
+<div>
+<Icon icon="translate" color="var(--accent-dark)" size="1.4em"/>
+<LanguageSelector showFlag={false} class="box"/>
+</div>
 
 <style>
       .box {
 		outline: 0;
  		border: 0;
-        gap: 0.5rem;
         color: var(--accent-dark);
-		text-decoration: none;
         background: transparent;
         font-size: var(--text-sm);
         font-weight: bold;
+      }
+      .icona{
+        
       }
 </style>
 
