@@ -1,5 +1,9 @@
 {
     "site": {
+      "footerdev":"Designed & Developed in Portland with ",
+      "home":"Home",
+      "work":"Work",
+      "about":"About",
       "title": " Hello, my name is Davide Di Marsilio",
       "description": "I am an Helpdesk operator and Artist who is currently based in Milan, Italy.",
       "artist":"Artist",
@@ -16,7 +20,18 @@
     },
     "work":{
       "mywork":"My Work",
-      "myworkd":"See my most recent projects below to get an idea of my past experience."
+      "myworkd":"See my most recent projects below to get an idea of my past experience.",
+      "myworkt":"My Work | Davide Di Marsilio",
+      "myworktd":"Learn about Davide Di Marsilio's most recent projects"
+    },
+    "404":{
+      "notfound":"Not Found",
+      "notfoundd":"404 Error — this page was not found",
+      "pagenotfound":"Page Not Found"
+    },
+    "about":{
+      "title":"About",
+      "titled":"Thanks for stopping by. Read below to learn more about myself and my background."
     }
   }
  

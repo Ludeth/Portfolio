@@ -1,4 +1,5 @@
 ---
+import i18next, { t, changeLanguage } from "i18next";
 import { localizePath } from "astro-i18next";
 import Icon from './Icon.astro';
 import ThemeToggle from './ThemeToggle.astro';
@@ -7,9 +8,9 @@ import LanguageToggle from "./LanguageToggle.astro";
 
 /** Main menu items */
 const textLinks: { label: string; href: string }[] = [
-	{ label: 'Home', href: '/' },
-	{ label: 'Work', href: '/work/' },
-	{ label: 'About', href: '/about/' },
+	{ label: 'site.home', href: '/' },
+	{ label: 'site.work', href: '/work/' },
+	{ label: 'site.about', href: '/about/' },
 ];
 
 /** Icon links to social media — edit these with links to your profiles! */
@@ -55,7 +56,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 							]}
 							href={localizePath(href)}
 						>
-							{label}
+						{t(label)}
 						</a>
 					</li>
 				))

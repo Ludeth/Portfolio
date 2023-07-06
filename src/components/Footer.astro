@@ -1,4 +1,5 @@
 ---
+import i18next, { t, changeLanguage } from "i18next";
 import Icon from './Icon.astro';
 const currentYear = new Date().getFullYear();
 ---
@@ -6,7 +7,7 @@ const currentYear = new Date().getFullYear();
 <footer>
 	<div class="group">
 		<p>
-			Designed & Developed in Portland with <a href="https://astro.build/">Astro</a>
+			{t("site.footerdev")}<a href="https://astro.build/">Astro</a>
 			<Icon icon="rocket-launch" size="1.2em" />
 		</p>
 		<p>&copy; {currentYear} Davide Di Marsilio</p>

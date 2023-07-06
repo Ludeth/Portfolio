@@ -1,4 +1,5 @@
 ---
+import i18next, { t, changeLanguage } from "i18next";
 import { changeLanguage } from "i18next";
 import Hero from "../../components/Hero.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
@@ -6,6 +7,6 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 changeLanguage("it");
 ---
 
-<BaseLayout title="Not Found" description="404 Error — this page was not found">
-	<Hero title="Page Not Found" tagline="Not found" />
+<BaseLayout title={t("404.notfound")} description={t("404.notfoundd")}>
+	<Hero title={t("404.pagenotfound")} tagline={t("404.notfound")} />
 </BaseLayout>

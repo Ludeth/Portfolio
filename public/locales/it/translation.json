@@ -1,5 +1,9 @@
 {
     "site": {
+      "footerdev":"Progettato e Sviluppato a Portland con ",
+      "home":"Home",
+      "work":"Lavori",
+      "about":"Chi sono",
       "title": " Ciao, mi chiamo Davide Di Marsilio",
       "description": "Sono un operatore Helpdesk e un artista attualmente residente a Milano, Italia.",
       "artist":"Artista",
@@ -16,7 +20,18 @@
     },
     "work":{
       "mywork":"I Miei Lavori",
-      "myworkd":"Per avere un'idea delle mie esperienze passate, consultate i miei progetti più recenti qui sotto."
+      "myworkd":"Per avere un'idea delle mie esperienze passate, consultate i miei progetti più recenti qui sotto.",
+      "myworkt":"I Miei Lavori | Davide Di Marsilio",
+      "myworktd":"Scopri i progetti più recenti di Davide Di Marsilio"
+    },
+    "404":{
+      "notfound":"Non trovata",
+      "notfoundd":"Errore 404 - questa pagina non è stata trovata",
+      "pagenotfound":"Pagina Non Trovata"
+    },
+    "about":{
+      "title":"Chi Sono",
+      "titled":"Leggete qui sotto per saperne di più su di me e sul mio percorso."
     }
   }
  

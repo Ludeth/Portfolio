@@ -13,8 +13,8 @@ const projects = (await getCollection("work")).sort((a, b) => b.data.publishDate
 ---
 
 <BaseLayout
-	title="My Work | Davide Di Marsilio"
-	description="Learn about Davide Di Marsilio's most recent projects"
+	title={t("work.myworkt")}
+	description={t("work.myworktd")}
 >
 	<div class="stack gap-20">
 		<main class="wrapper stack gap-8">
