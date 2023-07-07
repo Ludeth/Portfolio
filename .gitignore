@@ -22,4 +22,3 @@ pnpm-debug.log*
 
 # i18next (bug windows 11)
 astro-i18next.config.mjs
-package-lock.json
