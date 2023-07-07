@@ -2,12 +2,13 @@
 import i18next, { t, changeLanguage } from "i18next";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ContactCTA from "../components/ContactCTA.astro";
+import CvCTA from "../components/CvCTA.astro";
 import Hero from "../components/Hero.astro";
 
 changeLanguage("en");
 ---
 
-<BaseLayout title="About | Davide Di Marsilio" description="About Davide Di Marsilio Lorem Ipsum">
+<BaseLayout title="About | Davide Di Marsilio" description="About Davide Di Marsilio">
 	<div class="stack gap-20">
 		<main class="wrapper about">
 			<Hero
@@ -18,7 +19,7 @@ changeLanguage("en");
 					width="1553"
 					height="873"
 					src="/assets/at-work.webp"
-					alt="Davide Di Marsilio at work with a colleague"
+					alt="Davide Di Marsilio"
 				/>
 			</Hero>
 
@@ -58,7 +59,7 @@ changeLanguage("en");
 				</div>
 			</section>
 		</main>
-
+		<CvCTA />
 		<ContactCTA />
 	</div>
 </BaseLayout>

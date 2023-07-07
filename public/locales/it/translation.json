@@ -19,7 +19,9 @@
     },
     "mail":{
         "send": "Inviami un messaggio",
-        "question": "Interessati a lavorare insieme?"
+        "question": "Interessato a lavorare insieme?",
+        "cv":"Scarica il CV",
+        "cvquestion":"Cerchi il mio curriculum?"
     },
     "work":{
       "mywork":"I Miei Lavori",

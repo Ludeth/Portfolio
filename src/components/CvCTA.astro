@@ -1,0 +1,30 @@
+---
+import { t } from "i18next";
+import CvCallToAction from './CvCallToAction.astro';
+import Icon from './Icon.astro';
+---
+
+<aside>
+	<h2>{t("mail.cvquestion")}</h2>
+	<CvCallToAction href="https://drive.google.com/file/d/1Nfv9lvrR5pE3PnDVJN9WTWoeR8YEGQiu/view?usp=sharing">
+		{t("mail.cv")}
+		<Icon icon="file-pdf" size="1.2em" />
+	</CvCallToAction>
+</aside>
+
+<style>
+	aside {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1rem;
+		padding: 0;
+	}
+
+	h2 {
+		font-size: var(--text-xl);
+		text-align: center;
+		max-width: 15ch;
+	}
+
+</style>

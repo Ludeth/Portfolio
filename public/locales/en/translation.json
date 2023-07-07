@@ -19,7 +19,9 @@
     },
     "mail":{
         "send": "Send Me a Message",
-        "question": "Interested in working together?"
+        "question": "Interested in working together?",
+        "cv":"Download the CV",
+        "cvquestion":"Looking for my curriculum?"
     },
     "work":{
       "mywork":"My Work",
