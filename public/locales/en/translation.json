@@ -25,7 +25,9 @@
       "mywork":"My Work",
       "myworkd":"See my most recent projects below to get an idea of my past experience.",
       "myworkt":"My Work | Davide Di Marsilio",
-      "myworktd":"Learn about Davide Di Marsilio's most recent projects"
+      "myworktd":"Learn about Davide Di Marsilio's most recent projects",
+      "restauro":"Restorations",
+      "restaurod":"I restore old photos digitally, removing damage and adding the colors they could have had. The goal is to give new life to images from the past."
     },
     "404":{
       "notfound":"Not Found",
