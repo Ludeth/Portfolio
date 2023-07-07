@@ -1,5 +1,5 @@
 ---
-import { changeLanguage, language } from "i18next";
+import i18next, { changeLanguage, language } from "i18next";
 import { localizePath } from "astro-i18next";
 import { CollectionEntry, getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
@@ -11,7 +11,7 @@ import Pill from "../../components/Pill.astro";
 changeLanguage("en");
 
 // Calculate the correct collection to load (multilanguage collections)
-const varcollection = "work" + language;
+const varcollection = "work" + i18next.language;
 interface Props {
     entry: CollectionEntry<varcollection>;
 }
@@ -19,7 +19,7 @@ interface Props {
 // Read more about dynamic routes and this `getStaticPaths` function in the Astro docs:
 // https://docs.astro.build/en/core-concepts/routing/#dynamic-routes
 export async function getStaticPaths() {
-    const work = await getCollection("work_" + language);
+    const work = await getCollection("work_" + i18next.language);
     return work.map((entry) => ({
         params: { slug: entry.slug },
         props: { entry },
