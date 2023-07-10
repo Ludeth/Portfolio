@@ -3,7 +3,7 @@ export default {
   defaultLocale: "en",
   locales: ["en", "it"],
 };
-
+*/
 
  /*//I copied this because on win11 there's a bug where the locales won't load propely while previewing the page
 import en from "./public/locales/en/translation.json" assert {type: "json"};
