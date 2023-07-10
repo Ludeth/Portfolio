@@ -3,7 +3,7 @@ import i18next, { t, changeLanguage } from "i18next";
 import Hero from "../../components/Hero.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 
-i18next.changeLanguage("it");
+changeLanguage("it");
 ---
 
 <BaseLayout title={t("404.notfound")} description={t("404.notfoundd")}>
