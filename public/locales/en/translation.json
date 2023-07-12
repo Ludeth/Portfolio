@@ -24,10 +24,12 @@
         "cvquestion":"Looking for my curriculum?"
     },
     "work":{
-      "mywork":"My Work",
-      "myworkd":"See my most recent projects below to get an idea of my past experience.",
-      "myworkt":"My Work | Davide Di Marsilio",
+      "mywork":"My Works",
+      "myworkd":"See my most recent projects below to get an idea of my past artworks.",
+      "myworkt":"My Works | Davide Di Marsilio",
       "myworktd":"Learn about Davide Di Marsilio's most recent projects",
+      "work1":"Gorgeous graphics",
+      "work2":"My drawing style is characterized by the use of silhouettes and striking scenery. The graphics bear a resemblance to anime, with flowing lines and accurate details. In addition, the colors used are bright, giving a vivid effect.",
       "restauro":"Restorations",
       "restaurod":"I restore old photos digitally, removing damage and adding the colors they could have had. The goal is to give new life to images from the past.",
       "restauro1":"The art of restoring",
