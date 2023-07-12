@@ -10,7 +10,7 @@ tags:
   - Creativo
 ---
 
-## The process
+## The processo di creazione
 Il processo di creazione di un logo da parte di un artista creativo comporta diversi passaggi, tra cui la ricerca, il brainstorming, il disegno a mano, la digitalizzazione e il perfezionamento. Ecco una spiegazione dettagliata di ogni passaggio:
 
 - **Ricerca**: Prima di iniziare il processo di progettazione del logo, l'artista ha bisogno di raccogliere informazioni sul marchio, i suoi valori, il pubblico di riferimento e i concorrenti. Comprendere l'identità e gli obiettivi del marchio aiuta a creare un logo che li rappresenti efficacemente.
@@ -41,12 +41,12 @@ Il processo di creazione di un logo da parte di un artista creativo comporta div
 - **Finalizzazione**: Dopo aver incorporato tutti i cambiamenti necessari e il feedback, l'artista finalizza il design del logo. Imballa il logo in diversi formati di file, garantendo la sua utilizzabilità su diverse piattaforme e dimensioni. Tipicamente, un pacchetto di logo finalizzato include file vettoriali (come .ai o .eps) per la scalabilità e file raster (come .png o .jpeg) per l'uso immediato.
 
 
-## The final result
+## Il risultato finale
 In generale, un artista creativo investe tempo e sforzi per comprendere il marchio e creare un logo che rappresenti la sua essenza, i suoi valori e le sue aspirazioni. Utilizza ricerca, creatività e principi di design per creare un logo visivamente accattivante e significativo.
 
 <img src="/assets/contentimg/logoj.png">
 
-## Different styles
+## Stili differenti
 Per ottenere risultati migliori, mi impegno a creare delle varianti separate per ogni logo.
 <script defer src="https://unpkg.com/img-comparison-slider@7/dist/index.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/img-comparison-slider@7/dist/styles.css" />
