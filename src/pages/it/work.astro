@@ -67,30 +67,37 @@ const projects = (await getCollection("work_en")).sort((a, b) => b.data.publishD
 
           <!-- Logo -->
           <Hero title={t( "work.work3")} tagline={t( "work.work4")} align="start" />
+          
           <Grid>
-          <a href={localizePath( "/work/pdj")}>
-          <img src="/assets/artworks/logo1.webp" width="50%" height="50%" alt="Prodotti dal Giappone" style="border-radius: 50%;">
-          </a>
-          <div class="text">
-            <h4>{t("work.work5")}</h4>
-            {t("work.work6")}<br /><br />
-
-            <Icon icon="arrow-left" color="var(--accent-dark)" size="1.4em"/>
-            <i>{t("work.work9")}</i>
-
-          </div>
-          <a href={localizePath( "/work/hosto")}>
-          <img src="/assets/artworks/logo2.webp" width="60%" height="60%" alt="Prodotti dal Giappone" style="border-radius: 30px;">
-          </a>
-          <div class="text">
-            <h4>{t("work.work7")}</h4>
-            {t("work.work8")}<br /><br />
-            
-            <Icon icon="arrow-left" color="var(--accent-dark)" size="1.4em"/>
-            <i>{t("work.work10")}</i>
-            <a href="https://beta.hosto.cc/">Hosto</a>
-
-          </div>
+            <div>
+              <div>
+                <a href={localizePath( "/work/pdj" )}>
+                  <img src="/assets/artworks/logo1.webp" width="60%" height="60%" alt="Prodotti dal Giappone" style="border-radius: 30px;">
+                  </a>
+                </div>
+                <div>
+                  <h4>{t("work.work5")}</h4> {t("work.work6")} <br>
+                  <br>
+                  <Icon icon="arrow-up" color="var(--accent-dark)" size="1.4em" />
+                  <i>{t("work.work9")}</i>
+              </div>
+            </div>
+            <div>
+              <br>
+              <br>
+              <div>
+                <a href={localizePath( "/work/hosto" )}>
+                  <img src="/assets/artworks/logo2.webp" width="80%" height="80%" alt="Hosto" style="border-radius: 30px;">
+                </a>
+              </div>
+              <div>
+                <h4>{t("work.work7")}</h4> {t("work.work8")} <br>
+                <br>
+                <Icon icon="arrow-up" color="var(--accent-dark)" size="1.4em" />
+                <i>{t("work.work10")}</i>
+                <a href="https://beta.hosto.cc/">Hosto</a>
+              </div>
+            </div>
           </Grid>
           <!-- End Logo-->
 
