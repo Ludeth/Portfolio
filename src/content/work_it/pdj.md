@@ -66,6 +66,7 @@ Per ottenere risultati migliori, mi impegno a creare delle varianti separate per
 
 .slider-example-opacity-and-size:focus {
     --default-handle-opacity: 0;
+    outline: none;
 }
 
   img-comparison-slider {
