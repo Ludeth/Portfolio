@@ -46,7 +46,7 @@ Overall, a creative artist invests time and effort into understanding the brand 
 
 <img src="/assets/contentimg/logoj.png">
 
-## Different styles
+### Different styles
 In order to achieve better results, I strive to create distinct variations for each logo.
 <script defer src="https://unpkg.com/img-comparison-slider@7/dist/index.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/img-comparison-slider@7/dist/styles.css" />

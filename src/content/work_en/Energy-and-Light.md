@@ -13,7 +13,7 @@ tags:
 
 ## The simple design of flat shapes and colors, blended with cosmic elements
 
-In this captivating artwork, i brings the wonders of space through intricate drawings of graphic elements, striking shapes, and flat black and white colors. The theme of space resonates throughout as celestial bodies, swirling galaxies, and cosmic phenomena grace the canvas.
+In this artwork, i brings the wonders of space through intricate drawings of graphic elements, striking shapes, and flat black and white colors. The theme of space resonates throughout as celestial bodies, swirling galaxies, and cosmic phenomena grace the canvas.
 
 <img src="https://cdn.wallpapersafari.com/37/65/Xrtzvn.jpg" alt="Mily Way">
 

@@ -10,25 +10,52 @@ tags:
   - Semplice
 ---
 
-## Level-two heading
+## Creazione di un logo Efficace
 
-> ajsdhajdasjitalianooooooooooooooo
+<img src="https://affordableimage.com/wp-content/uploads/2018/09/logo-design-1024x437.jpg">
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+### Ideazione, Riflessione e Visualizzazione
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+Per creare un **logo pulito e semplice**, ho iniziato riflettendo su varie idee e considerando i valori dell'azienda. Ho schizzato dei bozzetti approssimativi per visualizzare la struttura del logo.
 
-### Level-three heading
+<img src="/assets/contentimg/concepth.png">
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+Ho creato **diverse versioni** del logo per determinare quella più ottimale.
 
-### Level-three heading
+<br />
+<div class="container">
+<img src="/assets/contentimg/version1.png" style="width:70%; height:70%;">
+</div>
+<br />
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Una volta definito il logo, sono passato a digitalizzare e vettorizzare il design utilizzando software di grafica. Mi sono assicurato di concentrarmi sull'utilizzo di pochi colori e elementi di design moderni per ottenere **l'aspetto pulito e semplice** desiderato.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
 
-#### Level-four heading
+### Perfezionamento dei Dettagli, Proporzioni e Allineamento per la Rappresentazione del Marchio
 
-- We noted this
-- And also this other point
+Mentre raffinavo la bozza digitale, ho prestato molta attenzione ai **dettagli, alle proporzioni e all'allineamento** per assicurarmi che tutto fosse al posto giusto. Ho anche sperimentato con diversi stili di carattere, spaziatura e colori per trovare la combinazione perfetta che rappresentasse il marchio.
+
+<img src="/assets/contentimg/version2.png">
+
+Infine, una volta soddisfatto del design, ho esportato il logo in vari formati di file per adattarlo a diversi media e piattaforme. Ciò ha garantito che il logo potesse essere utilizzato in modo **fluido sul sito web, sui profili dei social media e su altri materiali di marketing.**
+
+<div class="container">
+<img src="/assets/artworks/logo2.webp" style="width:60%; height:60%;">
+</div>
+
+È importante notare che il processo di creazione del logo può variare per ogni individuo o azienda. Tuttavia, seguendo questi passaggi, sono riuscito a creare un logo pulito e semplice che **rappresentava accuratamente l'azienda.**
+
+### Mantenere lo stile
+
+Creo diverse illustrazioni e grafiche web che seguono lo stesso stile del logo principale, garantendo un aspetto visivo coerente.
+
+<img src="/assets/contentimg/webpageh.png">
+
+<a href="https://beta.hosto.cc/">Hosto</a> è un sito di file hosting emergente e sono onorato che abbiano affidato a me la creazione del loro logo principale.
+
+<style>
+  .container {
+  display: flex;
+  justify-content: center;
+}
+</style>

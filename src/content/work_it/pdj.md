@@ -46,7 +46,7 @@ In generale, un artista creativo investe tempo e sforzi per comprendere il march
 
 <img src="/assets/contentimg/logoj.png">
 
-## Stili differenti
+### Stili differenti
 Per ottenere risultati migliori, mi impegno a creare delle varianti separate per ogni logo.
 <script defer src="https://unpkg.com/img-comparison-slider@7/dist/index.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/img-comparison-slider@7/dist/styles.css" />
