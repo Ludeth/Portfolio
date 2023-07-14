@@ -44,9 +44,9 @@
       "restauro1d":"I offer a professional and efficient service, specializing in digital restoration of old, damaged and faded photographs. Using advanced digital restoration techniques, giving new life to old memories. With meticulous attention to detail, I brighten colors, repair scratches and cracks, remove imperfections and ultimately improve the overall quality of the image. Whether it is a beloved family portrait or a memorable photo from the past, I make sure these treasures are preserved for generations to come."
     },
     "404":{
-      "notfound":"Not Found",
+      "notfound":"Page Not Found",
       "notfoundd":"404 Error — this page was not found",
-      "pagenotfound":"Page Not Found"
+      "pagenotfound":"404"
     },
     "about":{
       "title":"About",

@@ -44,9 +44,9 @@
       "restauro1d":"Offro un servizio professionale ed efficiente, specializzato nel restauro digitale di fotografie vecchie, danneggiate e sbiadite tramite l'ausilio di tecniche avanzate. Con una meticolosa attenzione ai dettagli, ravvivo i colori, riparo graffi e crepe, rimuovo imperfezioni ed infine miglioro la qualità complessiva dell'immagine. Che si tratti di un amato ritratto di famiglia o di una foto memorabile del passato, mi assicuro che questi tesori siano conservati per le generazioni a venire."
     },
     "404":{
-      "notfound":"Non trovata",
+      "notfound":"Pagina Non Trovata",
       "notfoundd":"Errore 404 - questa pagina non è stata trovata",
-      "pagenotfound":"Pagina Non Trovata"
+      "pagenotfound":"404"
     },
     "about":{
       "title":"Chi Sono",
