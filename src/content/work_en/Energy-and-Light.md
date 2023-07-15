@@ -2,7 +2,7 @@
 title: Energy and Light
 publishDate: 1998-03-02 00:00:00
 img: /assets/artworks/p2.webp
-img_alt: Cosmic tarot card
+img_alt: Style in tarot card but with cosmic theme
 description: |
   A minimalist artwork featuring graphics elements, shapes, and flat colors; inspired by the vastness and wonder of space.
 tags:

@@ -2,7 +2,7 @@
 title: Energy and Light
 publishDate: 1998-03-02 00:00:00
 img: /assets/artworks/p2.webp
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Stile in carta dei tarocchi ma con tema cosmico 
 description: |
   Un'opera d'arte minimalista con elementi grafici, forme e colori piatti; ispirata alla vastità e alla meraviglia dello spazio.
 tags:
