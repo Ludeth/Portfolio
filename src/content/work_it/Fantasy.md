@@ -2,10 +2,9 @@
 title: Fantasy
 publishDate: 2022-12-01 00:00:00
 img: /assets/artworks/l3.webp
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: Fatto con Photoshop
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Fatto con Photoshop
 tags:
   - Dev
   - Branding

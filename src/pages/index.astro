@@ -2,6 +2,7 @@
 import { t, changeLanguage } from "i18next";
 import { getCollection } from "astro:content";
 import { localizePath } from "astro-i18next";
+import { Trans } from "astro-i18next/components";
 // Layout import — provides basic page elements: <head>, <nav>, <footer> etc.
 import BaseLayout from "../layouts/BaseLayout.astro";
 // Component Imports
@@ -41,7 +42,7 @@ const projects = (await getCollection("work_en"))
 				</Hero>
 
 				<img
-					alt="Jeanine White smiling in a red plaid shirt and tortoise shell glasses"
+					alt="Computer"
 					width="480"
 					height="620"
 					src="/assets/portrait.webp"
@@ -49,6 +50,14 @@ const projects = (await getCollection("work_en"))
 			</header>
 
 			<Skills />
+			
+			<div style="font-size:1.5em;text-align: center;">
+			<strong>{t("site.aboutredi")}</strong>
+			<br>
+			<Trans i18nKey="site.aboutredi2">
+			Check the <a href={localizePath("/about/")}>About Me</a> page!
+			</Trans>
+			</div>
 		</div>
 
 		<main class="wrapper stack gap-20 lg:gap-48">
@@ -57,7 +66,7 @@ const projects = (await getCollection("work_en"))
 					<h3>{t("site.selectedwork")}</h3>
 					<p>{t("site.selectedworkd")}</p>
 				</header>
-
+				
 				<div class="gallery">
 					<Grid variant="offset">
 						{

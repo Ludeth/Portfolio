@@ -2,9 +2,9 @@
 title: You
 publishDate: 1998-03-02 00:00:00
 img: /assets/artworks/p1.webp
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Fatto con Photoshop e Illustrator
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Fatto con Photoshop e Illustrator
 tags:
   - Design
   - Dev

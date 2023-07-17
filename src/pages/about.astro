@@ -1,9 +1,11 @@
 ---
-import i18next, { t, changeLanguage } from "i18next";
+import { t, changeLanguage } from "i18next";
+import { Trans } from "astro-i18next/components";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ContactCTA from "../components/ContactCTA.astro";
 import CvCTA from "../components/CvCTA.astro";
 import Hero from "../components/Hero.astro";
+import Icon from "../components/Icon.astro";
 
 changeLanguage("en");
 ---
@@ -27,36 +29,90 @@ changeLanguage("en");
 				<h2 class="section-title">Background</h2>
 				<div class="content">
 					<p>
-						Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy.
-						Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum
-						id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla
-						pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+						<Trans i18nKey="about.text1">
+						I am an <strong>helpdesk operator</strong> with almost 3 years of experience in various IT fields. I possess knowledge in handling <strong>Azure, Active Directory, Operating Systems, and troubleshooting</strong> a wide range of software-related problems. Additionally, I have worked as a <strong>Control Room operator</strong>, leveraging my skills in monitoring softwares like Nagios.
+						</Trans>
 					</p>
 					<p>
-						Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis
-						natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl
-						condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel
-						quam elementum pulvinar etiam non.
+						<Trans i18nKey="about.text2">
+						<strong>Computer science</strong> have been an integral part of my life since childhood and a life long passion, as I began using PCs with Windows 98. I am deeply passionate about this field and constantly strive to <strong>expand my knowledge through continuous learning</strong>. One of my ambitions is to work as a <strong>system administrator</strong>, where I can utilize my expertise to tackle complex IT challenges and ensure optimal system performance.
+						</Trans>
 					</p>
 					<p>
-						Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet
-						eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra.
-						Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl
-						pretium fusce.
+						<br>
+						<Trans i18nKey="about.text3">
+						In addition to my IT skills, I am a <strong>self-taught artist</strong> proficient in <strong>graphic logo design and various artistic endeavors</strong>. Since the beginning of my journey in the artistic world, I have honed my skills in <strong>Photoshop and Illustrator</strong>. I thoroughly enjoy creating designs for companies, websites, t-shirts, and numerous other platforms and applications. Creating art allows me to express <strong>myself creatively and combine it with my technical skills</strong> to make beautiful and significant designs for clients.
+						</Trans>
 					</p>
 				</div>
 			</section>
 			<section>
-				<h2 class="section-title">Education</h2>
+				<h2 class="section-title">{t("about.exp")}</h2>
 				<div class="content">
-					<p>Corporis voluptates tenetur laudantium.</p>
+					<h2>HelpDesk and Service Desk Technician - <a href="https://www.europassistance.it/">Europassistance</a> c/o <a href="https://www.ecit.it/">ECIT S.p.A.</a></h2>
+					<h2 style="color:var(--gray-300);">Early 2023 | Full-time</h2>
+					<p><Icon icon="windows" size="1.33em" /> Windows Systems troubleshooting</p>
+					<p><Icon icon="user-folder" size="1.33em" /> Managing Active Directory</p>
+					<p><Icon icon="square-four" size="1.33em" /> O365 Global Administrator</p>
+					<p><Icon icon="identification-badge" size="1.33em" /> Identity Governance management (with company custom sotfware)</p>
+					<p><Icon icon="desktop-tower" size="1.33em" /> Remote and On-site IT support</p>
+					<p><Icon icon="hard-drives" size="1.33em" /> ESXi servers management</p>
+					<br>
+					<h2>Control Room operator - <a href="https://www.luxottica.com/">Luxottica</a> c/o <a href="https://www.ecit.it/">ECIT S.p.A.</a></h2>
+					<h2 style="color:var(--gray-300);">Early 2021 | Full-time</h2>
+					<p><Icon icon="pulse" size="1.33em" /> Monitoring software usage (Nagios & Solarwinds)</p>
+					<p><Icon icon="linux-logo" size="1.33em" /> Linux servers management</p>
+					<p><Icon icon="windows" size="1.33em" /> Windows servers managment</p>
+					<p><Icon icon="globe-simple" size="1.33em" /> Monitoring company IT infrastructure (switches, routers, servers and so on)</p>
+					<p><Icon icon="square-four" size="1.33em" /> Optimize Azure costs and usage</p>
+					<br>
+					<h2>Recording Studio Technician - <a href="https://ilclandestinogiornale.italiasera.it/">DComunication</a></h2>
+					<h2 style="color:var(--gray-300);">Late 2019 | Fixed-term full-time</h2>
+					<p><Icon icon="video" size="1.33em" /> Video & Photo Editing</p>
+					<p><Icon icon="film-reel" size="1.33em" /> Directing for local television shows and broadcasts</p>
+					<p><Icon icon="video-camera" size="1.33em" /> Cameraman</p>
+					<p><Icon icon="code" size="1.33em" /> Internal website development (wordpress) ad grapich design</p>
 				</div>
 			</section>
 			<section>
-				<h2 class="section-title">Skills</h2>
+				<h2 class="section-title">{t("about.cert")}</h2>
+					<div>
+					<h2>Azure Fundamentals - AZ-900</h2>
+					<p><strong><a href="https://learn.microsoft.com/en-us/certifications/" style="text-decoration: none;">Microsoft</a></strong></p>
+					<p><strong>Summer 2022 - <Icon icon="certificate" size="1.33em" /><a href="https://www.credly.com/badges/1e4a40d9-096f-4382-b468-5fb8188e41b3/linked_in_profile" style="text-decoration: none;"> Certification</a></strong></p>
+					<br>
+					<h2>EIPASS IT Security</h2>
+					<p><strong><a href="https://en.eipass.com/" style="text-decoration: none;">EIPASS</a></strong></p>
+					<p><strong>Late 2020 - <Icon icon="certificate" size="1.33em" /><a href="/public/documents/EIPASS IT Security - Davide Di Marsilio.pdf" style="text-decoration: none;"> Certification</a></strong></p>
+					<br>
+					<h2>EIPASS 7 Moduli User</h2>
+					<p><strong><a href="https://en.eipass.com/" style="text-decoration: none;">EIPASS</a></strong></p>
+					<p><strong>Late 2020 - <Icon icon="certificate" size="1.33em" /><a href="/public/documents/EIPASS IT Security - Davide Di Marsilio.pdf" style="text-decoration: none;"> Certification</a></strong></p>
+					<br>
+					<h2>CSS, JavaScript And Python Complete Course</h2>
+					<p><strong><a href="https://www.udemy.com/" style="text-decoration: none;">Udemy</a></strong></p>
+					<p><strong>Mid 2019 - <Icon icon="certificate" size="1.33em" /><a href="https://www.udemy.com/certificate/UC-129e3880-ddaa-4421-ba45-62b91546769e/" style="text-decoration: none;"> Certification</a></strong></p>
+					<br>
+					<h2>Adobe Premiere Pro</h2>
+					<p><strong><a href="https://www.udemy.com/" style="text-decoration: none;">Udemy</a></strong></p>
+					<p><strong>Mid 2019 - <Icon icon="certificate" size="1.33em" /><a href="https://www.udemy.com/certificate/UC-PVZPEVI1/" style="text-decoration: none;"> Certification</a></strong></p>
+					<br>
+					<h2>B2 First - Score 162</h2>
+					<p><strong><a href="https://www.cambridge.org/" style="text-decoration: none;">Cambridge University Press & Assessment</a></strong></p>
+					<p><strong>Mid 2017 - <Icon icon="certificate" size="1.33em" /><a href="/public/documents/B2 First - Davide Di Marsilio.pdf" style="text-decoration: none;"> Certification</a></strong></p>
+					</div>
+			</section>
+			<section>
+				
+				<h2 class="section-title">{t("about.edu")}</h2>
 				<div class="content">
-					<p>officia unde omnis</p>
+					<p style="color:blueviolet; font-weight: bold;">{t("about.edu2")}<br>Cisco CCNA</p>
+					<br>
+					<h2>{t("about.edu3")}</h2>
+					<h2 style="color: var(--gray-300);">ITIS Luigi Trafelli</h2>
+					<h2 style="color: var(--gray-300);">2013 - 2018</h2>
 				</div>
+				
 			</section>
 		</main>
 		<CvCTA />
@@ -65,6 +121,10 @@ changeLanguage("en");
 </BaseLayout>
 
 <style>
+
+	h2{
+		font-size: var(--text-l);
+	}
 	.about {
 		display: flex;
 		flex-direction: column;

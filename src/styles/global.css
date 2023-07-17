@@ -25,6 +25,13 @@
 
 	--link-color: var(--accent-regular);
 
+	/* 3DColors */
+	--3d-layer1: rgba(0, 0, 0, 0.7);
+	--3d-layer2: rgba(33, 33, 33, 0.5);
+	--3d-layer3: rgba(60, 60, 60, 0.3);
+	--3d-layer4: rgba(93, 93, 93, 0.1);
+	--3d-layer5: rgba(103, 103, 103, 0.05);
+		
 	/* Gradients */
 	--gradient-stop-1: var(--accent-light);
 	--gradient-stop-2: var(--accent-regular);
@@ -96,6 +103,13 @@
 	--accent-text-over: var(--gray-0);
 
 	--link-color: var(--accent-dark);
+
+	/* 3DColors */
+	--3d-layer1: rgba(255, 255, 255, 0.7);
+	--3d-layer2: rgba(216, 216, 216, 0.5);
+	--3d-layer3: rgba(182, 182, 182, 0.3);
+	--3d-layer4: rgba(161, 161, 161, 0.1);
+	--3d-layer5: rgba(125, 125, 125, 0.05);
 
 	--gradient-stop-1: #4c11c6;
 	--gradient-subtle: linear-gradient(150deg, var(--gray-900) 19%, var(--gray-999) 81%);

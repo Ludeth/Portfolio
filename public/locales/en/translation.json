@@ -1,11 +1,13 @@
 {
     "site": {
+      "aboutredi":"To read my bio and to know more my experiences and certifications",
+      "aboutredi2":"Check the <0>About Me</0> page!",
       "selectedwork":"Selected Work",
-      "selectedworkd":"Take a look below at some of my featured work for clients from the past few years.",
+      "selectedworkd":"Take a look below at some of my relevant work in art and graphic design.",
       "selectedworkb":"View All",
       "footerdev":"Designed & Developed in Portland with ",
       "home":"Home",
-      "work":"Artworks & Graphics",
+      "work":"Artworks & Graphic Design",
       "about":"About",
       "title": " Hello, my name is Davide Di Marsilio",
       "description": "I am an Helpdesk operator and Artist who is currently based in Milan, Italy.",
@@ -24,8 +26,8 @@
         "cvquestion":"Looking for my curriculum?"
     },
     "work":{
-      "mywork":"My Works",
-      "myworkd":"See my most recent projects below to get an idea of my past artworks.",
+      "mywork":"My Design and Artistic works",
+      "myworkd":"To get an idea of my past work, see my most recent projects below.",
       "myworkt":"My Works | Davide Di Marsilio",
       "myworktd":"Learn about Davide Di Marsilio's most recent projects",
       "work1":"Gorgeous illustrations ",
@@ -41,7 +43,9 @@
       "restauro":"Restorations",
       "restaurod":"I restore old photos digitally, removing damage and adding the colors they could have had. The goal is to give new life to images from the past.",
       "restauro1":"The art of restoring",
-      "restauro1d":"I offer a professional and efficient service, specializing in digital restoration of old, damaged and faded photographs. Using advanced digital restoration techniques, giving new life to old memories. With meticulous attention to detail, I brighten colors, repair scratches and cracks, remove imperfections and ultimately improve the overall quality of the image. Whether it is a beloved family portrait or a memorable photo from the past, I make sure these treasures are preserved for generations to come."
+      "restauro1d":"I offer a professional and efficient service, specializing in digital restoration of old, damaged and faded photographs. Using advanced digital restoration techniques, giving new life to old memories. With meticulous attention to detail, I brighten colors, repair scratches and cracks, remove imperfections and ultimately improve the overall quality of the image. Whether it is a beloved family portrait or a memorable photo from the past, I make sure these treasures are preserved for generations to come.",
+      "restauro2":"With the help of artificial intelligence",
+      "restauro2d":"The intervention of artificial intelligence becomes my trusted companion to restore image detail. Through advanced algorithms, it analyzes pixels, reconstructs missing information, and improves sharpness. This combination of my work and AI intervention allows for surprising results, restoring the original life and emotion to old images."
     },
     "404":{
       "notfound":"Page Not Found",
@@ -50,10 +54,15 @@
     },
     "about":{
       "title":"About",
-      "titled":"Thanks for stopping by. Read below to learn more about myself and my background."
-    },
-    "content":{
-      "work1":"test inglese"
+      "titled":"Thanks for stopping by. Read below to learn more about myself and my background.",
+      "text1":"I am an <0>helpdesk operator</0> with almost 3 years of experience in various IT fields. I possess knowledge in handling <1>Azure, Active Directory, Operating Systems, and troubleshooting</1> a wide range of software-related problems. Additionally, I have worked as a <2>Control Room operator</2>, leveraging my skills in monitoring softwares like Nagios.",
+      "text2":"<0>Computer science</0> have been an integral part of my life since childhood and a life long passion, as I began using PCs with Windows 98. I am deeply passionate about this field and constantly strive to <1>expand my knowledge through continuous learning</1>. One of my ambitions is to work as a <2>system administrator</2>, where I can utilize my expertise to tackle complex IT challenges and ensure optimal system performance.",
+      "text3":"In addition to my IT skills, I am a <0>self-taught artist</0> proficient in <1>graphic logo design and various artistic endeavors</1>. Since the beginning of my journey in the artistic world, I have honed my skills in <2>Photoshop and Illustrator</2>. I thoroughly enjoy creating designs for companies, websites, t-shirts, and numerous other platforms and applications. Creating art allows me to express <3>myself creatively and combine it with my technical skills</3> to make beautiful and significant designs for clients.",
+      "exp":"Work Experiences",
+      "cert":"Certifications",
+      "edu":"Education",
+      "edu2":"Currently studying:",
+      "edu3":"High School Diploma in Science and Computer Science"
     }
   }
  

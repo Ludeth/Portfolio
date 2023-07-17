@@ -1,11 +1,13 @@
 {
     "site": {
+      "aboutredi":"Per leggere la mia biografia e conoscere meglio le mie esperienze e certificazioni",
+      "aboutredi2":"Visita la pagina <0>Chi Sono</0>!",
       "selectedwork":"Lavori in Evidenza",
-      "selectedworkd":"Date un'occhiata qui sotto ad alcuni dei miei lavori di rilievo per i clienti degli ultimi anni.",
+      "selectedworkd":"Date un'occhiata qui sotto ad alcuni dei miei lavori di rilievo in ambito artistico e grafico.",
       "selectedworkb":"Visualizza tutti",
       "footerdev":"Progettato e Sviluppato a Portland con ",
       "home":"Home",
-      "work":"Lavori Grafici",
+      "work":"Lavori Artistici e Grafica",
       "about":"Chi sono",
       "title": " Ciao, mi chiamo Davide Di Marsilio",
       "description": "Sono un operatore Helpdesk e un artista attualmente residente a Milano, Italia.",
@@ -24,7 +26,7 @@
         "cvquestion":"Cerchi il mio curriculum?"
     },
     "work":{
-      "mywork":"I Miei Lavori",
+      "mywork":"I miei lavori Grafici e Artistici",
       "myworkd":"Per avere un'idea dei miei lavori passati, consultate i miei progetti più recenti qui sotto.",
       "myworkt":"I Miei Lavori | Davide Di Marsilio",
       "myworktd":"Scopri i progetti più recenti di Davide Di Marsilio",
@@ -41,7 +43,9 @@
       "restauro":"Restaurazioni",
       "restaurod":"Ripristino foto antiche digitalmente, elimando danni e aggiungendo i colori che avrebbero potuto avere. L'obbiettivo è quello di donare nuova vita alle immagini del passato.",
       "restauro1":"L'arte del restauro",
-      "restauro1d":"Offro un servizio professionale ed efficiente, specializzato nel restauro digitale di fotografie vecchie, danneggiate e sbiadite tramite l'ausilio di tecniche avanzate. Con una meticolosa attenzione ai dettagli, ravvivo i colori, riparo graffi e crepe, rimuovo imperfezioni ed infine miglioro la qualità complessiva dell'immagine. Che si tratti di un amato ritratto di famiglia o di una foto memorabile del passato, mi assicuro che questi tesori siano conservati per le generazioni a venire."
+      "restauro1d":"Offro un servizio professionale ed efficiente, specializzato nel restauro digitale di fotografie vecchie, danneggiate e sbiadite tramite l'ausilio di tecniche avanzate. Con una meticolosa attenzione ai dettagli, ravvivo i colori, riparo graffi e crepe, rimuovo imperfezioni ed infine miglioro la qualità complessiva dell'immagine. Che si tratti di un amato ritratto di famiglia o di una foto memorabile del passato, mi assicuro che questi tesori siano conservati per le generazioni a venire.",
+      "restauro2":"Con l'aiuto dell'intelligenza artificiale",
+      "restauro2d":"L'intervento dell'intelligenza artificiale diventa il mio compagno fidato per restituire il dettaglio delle immagini. Attraverso algoritmi avanzati, analizza i pixel, ricostruisce le informazioni mancanti e migliora la nitidezza. Questo mix tra il mio lavoro e l'intervento dell'AI permette di raggiungere risultati sorprendenti, che restituiscono alle immagini antiche la loro vita e la loro emozione originale."
     },
     "404":{
       "notfound":"Pagina Non Trovata",
@@ -50,10 +54,15 @@
     },
     "about":{
       "title":"Chi Sono",
-      "titled":"Leggete qui sotto per saperne di più su di me e sul mio percorso."
-    },
-    "content":{
-      "work1":"test itailiano"
+      "titled":"Grazie per aver visiato il mio sito! Leggete qui sotto per saperne di più su di me e sul mio percorso.",
+      "text1":"Sono un <0>operatore helpdesk</0> con quasi 3 anni di esperienza in vari settori IT. Possiedo conoscenze nella gestione di <1>Azure, Active Directory, Sistemi Operativi</1> e nella risoluzione di un'ampia gamma di problemi legati ai software. Inoltre, ho lavorato come <2>operatore di Control Room</2>, sfruttando le mie competenze in software di monitoraggio come Nagios.",
+      "text2":"<0>L'informatica</0> è stata parte integrante della mia vita fin dall'infanzia e una passione che mi ha accompagnato da sempre, dal momento che ho iniziato a usare il mio primo PC con Windows 98. Sono profondamente appassionato di questo campo e mi impegno costantemente ad <1>ampliare le mie conoscenze attraverso continuo apprendimento</1>. Una delle mie ambizioni è quella di lavorare come <2>amministratore di sistema</2>, dove posso utilizzare la mia esperienza per affrontare sfide informatiche complesse.",
+      "text3":"Oltre alle mie competenze informatiche, sono un <0>artista autodidatta</0> esperto nella progettazione di <1>loghi grafici e in varie attività artistiche</1>. Fin dall'inizio del mio percorso nel mondo artistico, ho affinato le mie competenze in <2>Photoshop e Illustrator</2>. Mi piace molto creare design per aziende, siti web, magliette e numerose altre piattaforme e applicazioni. Creare arte mi permette di <3>esprimermi in modo creativo e di combinarlo con le mie capacità tecniche</3> per realizzare design belli e significativi per i clienti.",
+      "exp":"Esperienze Lavorative",
+      "cert":"Certificazioni",
+      "edu":"Educazione",
+      "edu2":"Cosa studio ora:",
+      "edu3":"Diploma Liceo Scientifico: scienze Applicate"
     }
   }
  
