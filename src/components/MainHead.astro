@@ -9,16 +9,16 @@ interface Props {
 }
 
 const {
-	title = 'Davide Di Marsilio: Personal Site',
-	description = 'The personal site of Davide Di Marsilio',
+	title = t("site.sited"),
+	description = t("site.sited"),
 } = Astro.props;
 ---
 
 <meta charset="UTF-8" />
-<meta name="description" property="og:description" content={t( "site.sited")} />
+<meta name="description" property="og:description" content={description}/>
 <meta name="viewport" content="width=device-width" />
 <meta name="generator" content={Astro.generator} />
-<title>{t( "site.site")}</title>
+<title>{title}</title>
 
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
