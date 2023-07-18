@@ -63,7 +63,13 @@ const { Content } = await entry.render();
 	}
 
 	.back-link {
-		display: none;
+		padding: 0.3rem 0.8rem;
+    	color: var(--accent-dark);
+    	border: 1px solid var(--accent-regular);
+    	border-radius: 999rem;
+    	line-height: 1.35;
+    	height: fit-content;
+    	width: fit-content;
 	}
 
 	.details {
@@ -78,6 +84,8 @@ const { Content } = await entry.render();
 	.tags {
 		display: flex;
 		gap: 0.5rem;
+		flex-wrap: wrap;
+    	justify-content: center
 	}
 
 	.description {
