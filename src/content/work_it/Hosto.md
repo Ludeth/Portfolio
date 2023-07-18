@@ -4,7 +4,7 @@ publishDate: 1998-03-02 00:00:00
 img: /assets/artworks/logo2.webp
 img_alt: Logo del brand "Hosto"
 description: |
-  Logo del brand "Hosto"
+  Logo del brand "Hosto" - Progettato, ideato e disegnato da Davide Di Marsilio
 tags:
   - Logo
   - Semplice
@@ -28,12 +28,12 @@ Ho creato **diverse versioni** del logo per determinare quella più ottimale.
 </div>
 <br />
 
-Una volta definito il logo, sono passato a digitalizzare e vettorizzare il design utilizzando software di grafica. Mi sono assicurato di concentrarmi sull'utilizzo di pochi colori e elementi di design moderni per ottenere **l'aspetto pulito e semplice** desiderato.
+Una volta definito il logo, sono passato a digitalizzare e vettorizzare il design utilizzando software di grafica. Mi sono assicurato di concentrarmi sull'utilizzo di pochi colori ed elementi di design moderni per ottenere **un aspetto pulito e semplice**.
 
 
 ### Perfezionamento dei Dettagli, Proporzioni e Allineamento per la Rappresentazione del Marchio
 
-Mentre raffinavo la bozza digitale, ho prestato molta attenzione ai **dettagli, alle proporzioni e all'allineamento** per assicurarmi che tutto fosse al posto giusto. Ho anche sperimentato con diversi stili di carattere, spaziatura e colori per trovare la combinazione perfetta che rappresentasse il marchio.
+Mentre affinavo la bozza digitale, ho prestato molta attenzione ai **dettagli, alle proporzioni e all'allineamento** per assicurarmi che tutto fosse al posto giusto. Ho anche sperimentato con diversi stili di carattere, spaziatura e colori per trovare la combinazione perfetta che rappresentasse il marchio.
 
 <img src="/assets/contentimg/version2.png">
 
@@ -43,11 +43,11 @@ Infine, una volta soddisfatto del design, ho esportato il logo in vari formati d
 <img src="/assets/artworks/logo2.webp" style="width:60%; height:60%;">
 </div>
 
-È importante notare che il processo di creazione del logo può variare per ogni individuo o azienda. Tuttavia, seguendo questi passaggi, sono riuscito a creare un logo pulito e semplice che **rappresentava accuratamente l'azienda.**
+È importante notare che il processo di creazione del logo può variare per ogni individuo o impresa. Tuttavia, seguendo questi passaggi, sono riuscito a creare un logo pulito e semplice che **rappresentava accuratamente l'azienda.**
 
 ### Mantenere lo stile
 
-Creo diverse illustrazioni e grafiche web che seguono lo stesso stile del logo principale, garantendo un aspetto visivo coerente.
+Creo anche diverse illustrazioni e grafiche web che seguono lo stesso stile del logo principale, garantendo un aspetto visivo coerente.
 
 <img src="/assets/contentimg/webpageh.png">
 

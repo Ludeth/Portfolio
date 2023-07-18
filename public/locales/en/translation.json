@@ -10,7 +10,7 @@
       "work":"Artworks & Graphic Design",
       "about":"About",
       "title": " Hello, my name is Davide Di Marsilio",
-      "description": "I am an Helpdesk operator and Artist who is currently based in Milan, Italy.",
+      "description": "I am an ServiceDesk/Helpdesk Technician and Artist who is currently based in Milan, Italy.",
       "artist":"Artist",
       "ost":"Proficient in OS",
       "osd":"With a genuine passion for technology and a broad expertise in operating systems, mainly Windows, I possess a deep understanding of various OS platforms. Additionally, my proficiency extends to Active Directory and Azure and Python scripting, allowing me to leverage these powerful tools for efficient operations within diverse IT environments.",
@@ -31,7 +31,7 @@
       "myworkt":"My Works | Davide Di Marsilio",
       "myworktd":"Learn about Davide Di Marsilio's most recent projects",
       "work1":"Gorgeous illustrations ",
-      "work2":"My drawing style is characterized by the use of silhouettes and striking scenery. The graphics bear a resemblance to anime, with flowing lines and accurate details. In addition, the colors used are bright, giving a vivid effect.",
+      "work2":"My drawing style is characterized by the use of silhouettes and striking scenery. The graphics bear a resemblance to anime, with flowing lines and full of details. In addition, the colors used are bright, giving a vivid effect.",
       "work3":"Logo Design & Graphics",
       "work4":"Over time, I have developed a passion for creating eye-catching and simple logos. I try to follow what the client's wishes are to achieve the perfect logo.",
       "work5":"Creative and Effective",
@@ -43,9 +43,9 @@
       "restauro":"Restorations",
       "restaurod":"I restore old photos digitally, removing damage and adding the colors they could have had. The goal is to give new life to images from the past.",
       "restauro1":"The art of restoring",
-      "restauro1d":"I offer a professional and efficient service, specializing in digital restoration of old, damaged and faded photographs. Using advanced digital restoration techniques, giving new life to old memories. With meticulous attention to detail, I brighten colors, repair scratches and cracks, remove imperfections and ultimately improve the overall quality of the image. Whether it is a beloved family portrait or a memorable photo from the past, I make sure these treasures are preserved for generations to come.",
+      "restauro1d":"I offer a professional service specializing in digital restoration of old, damaged and faded photographs. Using advanced digital restoration techniques, giving new life to old memories. With meticulous attention to detail, I brighten colors, repair scratches and cracks, remove imperfections and ultimately improve the overall quality of the image. Whether it is a beloved family portrait or a memorable photo from the past, I make sure these treasures are preserved for generations to come.",
       "restauro2":"With the help of artificial intelligence",
-      "restauro2d":"The intervention of artificial intelligence becomes my trusted companion to restore image detail. Through advanced algorithms, it analyzes pixels, reconstructs missing information, and improves sharpness. This combination of my work and AI intervention allows for surprising results, restoring the original life and emotion to old images."
+      "restauro2d":"The intervention of artificial intelligence becomes my trusted companion to restore image detail. Through advanced algorithms, it analyzes pixels, reconstructs missing information, and improves sharpness. This combination of my work and AI intervention allows for surprising results."
     },
     "404":{
       "notfound":"Page Not Found",
@@ -55,9 +55,9 @@
     "about":{
       "title":"About",
       "titled":"Thanks for stopping by. Read below to learn more about myself and my background.",
-      "text1":"I am an <0>helpdesk operator</0> with almost 3 years of experience in various IT fields. I possess knowledge in handling <1>Azure, Active Directory, Operating Systems, and troubleshooting</1> a wide range of software-related problems. Additionally, I have worked as a <2>Control Room operator</2>, leveraging my skills in monitoring softwares like Nagios.",
+      "text1":"I am an <0>Helpdesk Technician</0> with almost 3 years of experience in various IT fields. I possess knowledge in handling <1>Azure, Active Directory, Operating Systems, and troubleshooting</1> a wide range of software-related problems. Additionally, I have worked as a <2>Control Room operator</2>, leveraging my skills in monitoring softwares like Nagios.",
       "text2":"<0>Computer science</0> have been an integral part of my life since childhood and a life long passion, as I began using PCs with Windows 98. I am deeply passionate about this field and constantly strive to <1>expand my knowledge through continuous learning</1>. One of my ambitions is to work as a <2>system administrator</2>, where I can utilize my expertise to tackle complex IT challenges and ensure optimal system performance.",
-      "text3":"In addition to my IT skills, I am a <0>self-taught artist</0> proficient in <1>graphic logo design and various artistic endeavors</1>. Since the beginning of my journey in the artistic world, I have honed my skills in <2>Photoshop and Illustrator</2>. I thoroughly enjoy creating designs for companies, websites, t-shirts, and numerous other platforms and applications. Creating art allows me to express <3>myself creatively and combine it with my technical skills</3> to make beautiful and significant designs for clients.",
+      "text3":"In addition to my IT skills, I am a <0>self-taught artist</0> proficient in <1>graphic logo design and various artistic endeavors</1>. Since the beginning of my journey in the artistic world, I have honed my skills in <2>Photoshop and Illustrator</2>. I thoroughly enjoy creating designs for companies, websites, t-shirts, and numerous other platforms and applications. Creating art allows me to express <3>myself creatively and combine it with my technical skills</3> to make beautiful and significant designs.",
       "exp":"Work Experiences",
       "cert":"Certifications",
       "edu":"Education",

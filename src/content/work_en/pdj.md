@@ -4,16 +4,16 @@ publishDate: 1998-03-02 00:00:00
 img: /assets/artworks/logo1.webp
 img_alt: Logo about the brand "Prodotti dal Giappone"
 description: |
-  Logo of the brand "Prodotti dal Giappone"
+  Logo of the brand "Prodotti dal Giappone" - Designed, created and drawn by Davide Di Marsilio
 tags:
   - Logo
   - Creative
 ---
 
 ## The process
-The process of making a logo by a creative artist involves several steps, including research, brainstorming, sketching, digitizing, and refinement. Here is a detailed explanation of each step:
+The process of making a logo by an artist and designer involves several steps, including research, brainstorming, sketching, digitizing, and refinement. Here is a detailed explanation of each step:
 
-- **Research**: Before starting the logo design process, the artist needs to gather information about the brand, its values, target audience, and competitors. Understanding the brand's identity and goals helps in creating a logo that effectively represents them.
+- **Research**: Before starting the logo design process, the artist needs to gather information about the brand, its values, target and audience. Understanding the brand's identity and goals helps in creating a logo that effectively represents them.
 <br />
 
 - **Brainstorming**: Next, the artist generates ideas and concepts for the logo. They explore various visual elements, such as typography, symbols, colors, and imagery, to create a design that aligns with the brand's essence.
@@ -21,7 +21,7 @@ The process of making a logo by a creative artist involves several steps, includ
 
 - **Sketching**: The artist puts their ideas onto paper by sketching different logo concepts. They experiment with different shapes, layouts, and compositions, exploring multiple design options while keeping simplicity and memorability in mind.
 
-<img src="/assets/contentimg/conceptj.png">
+<img src="/assets/contentimg/conceptj.webp">
 
 - **Digitizing**: Once the artist is satisfied with a few sketches, they move on to digitizing them using graphic design software like Adobe Illustrator. They recreate the concepts digitally, refining the shapes, lines, and proportions. This step allows for better manipulation and preparation for the next phases.
 <br />
@@ -35,19 +35,19 @@ The process of making a logo by a creative artist involves several steps, includ
 - **Typography**: The artist selects suitable fonts or creates custom lettering to complement the logo's visual identity. They consider factors like readability, uniqueness, and how well the typography aligns with the overall design. Typography choices can significantly impact the logo's voice and character.
 <br />
 
-- **Feedback and Iteration**: Once the logo design is ready, the artist seeks feedback from the client or stakeholders. They present the design options, explaining the reasoning behind each. Feedback is obtained, and iterations are made based on the input received. This feedback loop may continue until a final design is approved.
+- **Feedback and Iteration**: Once the logo design is ready, the artist seeks feedback from the client. They present the design options, explaining the reasoning behind each. Feedback is obtained, and iterations are made based on the input received. This feedback loop may continue until a final design is approved.
 <br />
 
 - **Finalization**: After incorporating all the necessary changes and feedback, the artist finalizes the logo design. They package the logo in different file formats, ensuring it is usable across various platforms and sizes. Typically, a finalized logo package includes vector files (such as .ai or .eps) for scalability and raster files (such as .png or .jpeg) for immediate use.
 
 
 ## The final result
-Overall, a creative artist invests time and effort into understanding the brand and creating a logo that represents its essence, values, and aspirations. They employ research, creativity, and design principles to craft a visually appealing and meaningful logo.
+Overall, an artist and designer invests time and effort into understanding the brand and creating a logo that represents its essence, values, and aspirations. They employ research, creativity, and design principles to craft a visually appealing and meaningful logo.
 
 <img src="/assets/contentimg/logoj.png">
 
 ### Different styles
-In order to achieve better results, I strive to create distinct variations for each logo.
+In order to achieve better results, I strive to create distinct variations for each logo. Logo variants allow the brand to be adapted to different situations and contexts. In addition, logo variants can be used to differentiate the brand in different sites or market segments.
 <script defer src="https://unpkg.com/img-comparison-slider@7/dist/index.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/img-comparison-slider@7/dist/styles.css" />
 

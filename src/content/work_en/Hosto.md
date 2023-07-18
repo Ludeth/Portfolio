@@ -4,7 +4,7 @@ publishDate: 1998-03-02 00:00:00
 img: /assets/artworks/logo2.webp
 img_alt: Logo about the brand "Hosto"
 description: |
-  Logo of the brand "Prodotti dal Giappone"
+  Logo of the brand "Prodotti dal Giappone" - Designed, created and drawn by Davide Di Marsilio
 tags:
   - Logo
   - Simple

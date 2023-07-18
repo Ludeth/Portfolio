@@ -10,12 +10,12 @@
       "work":"Lavori Artistici e Grafica",
       "about":"Chi sono",
       "title": " Ciao, mi chiamo Davide Di Marsilio",
-      "description": "Sono un operatore Helpdesk e un artista attualmente residente a Milano, Italia.",
+      "description": "Sono un Tecnico ServiceDesk/HelpDesk e un Artista attualmente residente a Milano, Italia.",
       "artist":"Artista",
-      "ost":"Conoscenza dei OS",
-      "osd":"Con una vera passione per la tecnologia e un'ampia esperienza nei sistemi operativi, principalmente Windows, possiedo una profonda conoscenza di varie piattaforme OS. Inoltre, la mia competenza si estende ad Active Directory , Azure e allo scripting Python, consentendomi di sfruttare questi potenti strumenti per operazioni efficienti all'interno di diversi ambienti IT.",
+      "ost":"Conoscenza dei SO",
+      "osd":"Con una vera passione per la tecnologia e un'ampia esperienza nei sistemi operativi, principalmente Windows, possiedo una profonda conoscenza di vari Sistemi Operativi. Inoltre, la mia competenza si estende ad Active Directory , Azure e allo scripting Python, consentendomi di sfruttare questi potenti strumenti per operazioni efficienti all'interno di diversi ambienti IT.",
       "cct":"Abile Comunicatore",
-      "ccd":"Con un passato da operatore Helpdesk, ho affinato le mie capacità di comunicazione a un livello elevato. Sono in grado di comprendere e soddisfare le esigenze e i requisiti dei clienti. La mia capacità di comunicare in modo chiaro e di ascoltare attivamente mi permette di stabilire solidi rapporti di lavoro e di produrre progetti che soddisfano e superano le aspettative.",
+      "ccd":"Con un passato da operatore Helpdesk, ho affinato le mie capacità di comunicazione a un livello elevato. Sono in grado di comprendere e soddisfare le esigenze e i requisiti dei clienti. La mia capacità di comunicare in modo chiaro e di ascoltare attivamente mi permette di stabilire solidi rapporti di lavoro e di realizzare progetti che soddisfano le aspettative.",
       "avt":"Visione Artistica",
       "avd":"Come artista e designer di loghi indipendente, possiedo un'acuta visione artistica che mi permette di creare design unici e visivamente accattivanti. Che si tratti di un logo, di un'illustrazione o di qualsiasi progetto artistico, metto a disposizione creatività, immaginazione e attenzione ai dettagli per ottenere risultati eccezionali."
     },
@@ -31,21 +31,21 @@
       "myworkt":"I Miei Lavori | Davide Di Marsilio",
       "myworktd":"Scopri i progetti più recenti di Davide Di Marsilio",
       "work1":"Splendide illustrazioni",
-      "work2":"Il mio stile di disegno si caratterizza per l'utilizzo delle silhouette e dei scenari suggestivi. La grafica presenta una somiglianza agli anime, con linee fluide e dettagli accurati. Inoltre, i colori utilizzati sono brillanti, che conferiscono un effetto vivace.",
+      "work2":"Il mio stile di disegno si caratterizza per l'utilizzo delle silhouette e dei scenari suggestivi. La grafica presenta una somiglianza agli anime, con linee fluide e piene di dettagli. Inoltre, la scelta di colori brillanti conferisce un effetto vivace.",
       "work3":"Design di Loghi e Grafiche",
-      "work4":"Con il tempo ho maturato una passione per la creazione di loghi accattivanti e semplice. Cerco di seguire quelli che sono i desideri del cliente per raggiungere il logo perfetto.",
+      "work4":"Con il tempo ho maturato una passione per la creazione di loghi accattivanti e semplici. Cerco di seguire quelli che sono i desideri del cliente per raggiungere il logo perfetto.",
       "work5":"Creativo ed Efficace",
       "work6":"Sono in grado di creare loghi dall'aspetto moderno e allo stesso tempo creativi e non banali.",
       "work7":"Pulito e Professionale",
-      "work8":"Ho uno strano amore per i loghi estremamente puliti e minimali, ma allo stesso tempo cerco di donare alla grafica un elemento distinguibile e facile da ricordare.",
+      "work8":"Ho uno amore speciale per i loghi estremamente puliti e minimali, ma allo stesso tempo cerco di donare alla grafica un elemento distinguibile e facile da ricordare.",
       "work9":"Clicca sull'immagine per sapere di più sul processo creativo del logo",
       "work10":"Clicca sull'immagine foto per sapere di più sul processo creativo del logo e su ",
       "restauro":"Restaurazioni",
       "restaurod":"Ripristino foto antiche digitalmente, elimando danni e aggiungendo i colori che avrebbero potuto avere. L'obbiettivo è quello di donare nuova vita alle immagini del passato.",
       "restauro1":"L'arte del restauro",
-      "restauro1d":"Offro un servizio professionale ed efficiente, specializzato nel restauro digitale di fotografie vecchie, danneggiate e sbiadite tramite l'ausilio di tecniche avanzate. Con una meticolosa attenzione ai dettagli, ravvivo i colori, riparo graffi e crepe, rimuovo imperfezioni ed infine miglioro la qualità complessiva dell'immagine. Che si tratti di un amato ritratto di famiglia o di una foto memorabile del passato, mi assicuro che questi tesori siano conservati per le generazioni a venire.",
+      "restauro1d":"Offro un servizio professionale specializzato nel restauro digitale di fotografie vecchie, danneggiate e sbiadite tramite l'ausilio di tecniche avanzate. Con una meticolosa attenzione ai dettagli, ravvivo i colori, riparo graffi e crepe, rimuovo imperfezioni ed infine miglioro la qualità complessiva dell'immagine. Che si tratti di un amato ritratto di famiglia o di una foto memorabile del passato, mi assicuro che questi tesori siano conservati per le generazioni a venire.",
       "restauro2":"Con l'aiuto dell'intelligenza artificiale",
-      "restauro2d":"L'intervento dell'intelligenza artificiale diventa il mio compagno fidato per restituire il dettaglio delle immagini. Attraverso algoritmi avanzati, analizza i pixel, ricostruisce le informazioni mancanti e migliora la nitidezza. Questo mix tra il mio lavoro e l'intervento dell'AI permette di raggiungere risultati sorprendenti, che restituiscono alle immagini antiche la loro vita e la loro emozione originale."
+      "restauro2d":"L'intervento dell'intelligenza artificiale diventa il mio compagno fidato per restituire il dettaglio alle immagini. Attraverso algoritmi avanzati, analizza i pixel, ricostruisce le informazioni mancanti e migliora la nitidezza. Questo mix tra il mio lavoro e l'intervento dell'AI permette di raggiungere risultati sorprendenti."
     },
     "404":{
       "notfound":"Pagina Non Trovata",
@@ -55,14 +55,14 @@
     "about":{
       "title":"Chi Sono",
       "titled":"Grazie per aver visiato il mio sito! Leggete qui sotto per saperne di più su di me e sul mio percorso.",
-      "text1":"Sono un <0>operatore helpdesk</0> con quasi 3 anni di esperienza in vari settori IT. Possiedo conoscenze nella gestione di <1>Azure, Active Directory, Sistemi Operativi</1> e nella risoluzione di un'ampia gamma di problemi legati ai software. Inoltre, ho lavorato come <2>operatore di Control Room</2>, sfruttando le mie competenze in software di monitoraggio come Nagios.",
-      "text2":"<0>L'informatica</0> è stata parte integrante della mia vita fin dall'infanzia e una passione che mi ha accompagnato da sempre, dal momento che ho iniziato a usare il mio primo PC con Windows 98. Sono profondamente appassionato di questo campo e mi impegno costantemente ad <1>ampliare le mie conoscenze attraverso continuo apprendimento</1>. Una delle mie ambizioni è quella di lavorare come <2>amministratore di sistema</2>, dove posso utilizzare la mia esperienza per affrontare sfide informatiche complesse.",
-      "text3":"Oltre alle mie competenze informatiche, sono un <0>artista autodidatta</0> esperto nella progettazione di <1>loghi grafici e in varie attività artistiche</1>. Fin dall'inizio del mio percorso nel mondo artistico, ho affinato le mie competenze in <2>Photoshop e Illustrator</2>. Mi piace molto creare design per aziende, siti web, magliette e numerose altre piattaforme e applicazioni. Creare arte mi permette di <3>esprimermi in modo creativo e di combinarlo con le mie capacità tecniche</3> per realizzare design belli e significativi per i clienti.",
+      "text1":"Sono un <0>tecnico Helpdesk</0> con quasi 3 anni di esperienza in vari settori IT. Possiedo conoscenze nella gestione di <1>Azure, Active Directory, Sistemi Operativi</1> e nella risoluzione di un'ampia gamma di problemi legati ai software. Inoltre, ho lavorato come <2>operatore di Control Room</2>, sfruttando le mie competenze in software di monitoraggio come Nagios.",
+      "text2":"<0>L'informatica</0> è stata parte integrante della mia vita fin dall'infanzia e una passione che mi ha accompagnato da sempre, dal momento che ho iniziato a usare il mio primo PC con Windows 98. Sono profondamente appassionato di questo campo e mi impegno costantemente ad <1>ampliare le mie conoscenze attraverso un costante apprendimento</1>. Una delle mie ambizioni è quella di lavorare come <2>amministratore di sistema</2>, dove posso utilizzare la mia accumulata esperienza per affrontare nuove sfide informatiche.",
+      "text3":"Oltre alle mie competenze informatiche, sono un <0>artista autodidatta</0> esperto nella progettazione di <1>loghi grafici e in varie attività artistiche</1>. Fin dall'inizio del mio percorso nel mondo artistico, ho affinato le mie competenze in <2>Photoshop e Illustrator</2>. Mi piace molto creare design per aziende, siti web, magliette e numerose altre piattaforme e applicazioni. Creare arte mi permette di <3>esprimermi in modo creativo e di combinarlo con le mie capacità tecniche</3> per realizzare design belli e significativi.",
       "exp":"Esperienze Lavorative",
       "cert":"Certificazioni",
       "edu":"Educazione",
       "edu2":"Cosa studio ora:",
-      "edu3":"Diploma Liceo Scientifico: scienze Applicate"
+      "edu3":"Diploma Liceo Scientifico: Scienze Applicate"
     }
   }
  
