@@ -51,11 +51,11 @@ const projects = (await getCollection("work_en"))
 			<Skills />
 			
 			<div style="font-size:1.5em;text-align: center;">
-			<strong>{t("site.aboutredi")}</strong>
-			<br>
-			<Trans i18nKey="site.aboutredi2">
-			Check the <a href={localizePath("/about/")}>About Me</a> page!
-			</Trans>
+				<strong>{t("site.aboutredi")}</strong>
+				<br>
+				<Trans i18nKey="site.aboutredi2">
+				Check the <a href={localizePath("/about/")}>About Me</a> page!
+				</Trans>
 			</div>
 		</div>
 
@@ -65,18 +65,17 @@ const projects = (await getCollection("work_en"))
 					<h3>{t("site.selectedwork")}</h3>
 					<p>{t("site.selectedworkd")}</p>
 				</header>
-				
-				<div class="gallery">
-					<Grid variant="offset">
-						{
-							projects.map((project) => (
-								<li>
-									<PortfolioPreview project={project} />
-								</li>
-							))
-						}
-					</Grid>
-				</div>
+			<div class="gallery">
+				<Grid variant="offset">
+					{
+						projects.map((project) => (
+							<li>
+								<PortfolioPreview project={project} />
+							</li>
+						))
+					}
+				</Grid>
+			</div>
 
 				<div class="cta">
 					<CallToAction href={localizePath("/work/")}>
