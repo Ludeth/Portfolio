@@ -24,13 +24,6 @@
 	--accent-text-over: var(--gray-999);
 
 	--link-color: var(--accent-regular);
-
-	/* 3DColors */
-	--3d-layer1: rgba(0, 0, 0, 0.7);
-	--3d-layer2: rgba(33, 33, 33, 0.5);
-	--3d-layer3: rgba(60, 60, 60, 0.3);
-	--3d-layer4: rgba(93, 93, 93, 0.1);
-	--3d-layer5: rgba(103, 103, 103, 0.05);
 		
 	/* Gradients */
 	--gradient-stop-1: var(--accent-light);
